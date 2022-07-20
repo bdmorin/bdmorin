@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Brian.
+<img style="max-width: 450px" align="right" src="https://github-profile-trophy.vercel.app/?username=bdmorin&theme=gruvbox&column=3&no-bg=false&no-frame=true" alt="bdmorin's github trophies" />
+I'm a happy go lucky pirate.
 
-<!--
-**bdmorin/bdmorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on rsstwitter (sekret project)
+- 🌱 I’m currently learning RUST
+- 👯 I’m looking to collaborate on public web scraping to increase citizen's view of metrics into local Governments.
+- 🤔 I’m looking for help with RUST
+- 💬 Ask me about: stuff
+- 📫 How to reach me: gitter is good, or, like google me.
+- 😄 Pronouns: he/him/dude
+- ⚡ Fun fact: Anti-Conservative, Anti-Racist (same thing really), Politically Active, gruvbox 4eva
+- ƛ Currently Hiring Devops,ComputerVision nerds, HMU!

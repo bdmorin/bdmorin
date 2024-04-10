@@ -7,5 +7,5 @@ I'm a happy go lucky pirate.
 - 👯 I’m looking to collaborate on public web scraping to increase citizen's view of metrics into local Governments.
 - 📫 How to reach me: https://hachyderm.io/@brahn
 - 😄 Pronouns: he/him/dude
-- ⚡ Fun facts: Anti-Conservative, Anti-Racist (same thing really), Politically Active, gruvbox 4eva
+- ⚡ Fun facts: Anti-Conservative, Anti-Racist (same thing really), Politically Active, ~gruvbox~ catppuccin 4eva (sorta)
 
